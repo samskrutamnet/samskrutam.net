@@ -181,26 +181,28 @@ div.notices.info p {
     font-family: dhurjati;
     src: url(/fonts/dhurjati.ttf);
 }
+@font-face {
+  font-family: adishilaBold;
+  src: url(/fonts/AdishilaBold.ttᳶf);
+}
 
-.shloka {
-    background-color: lightgrey;
-    border: 5px solid green;
-    padding: 50px;
-    margin: 20px;
-    width: 80%;
-    font-size: 150%;
-    font-family: Gidugu;
-  }
+@font-face {
+  font-family: adishila;
+  src: url(/fonts/Adishila.ttᳶf);
+}
+@font-face {
+  font-family: adishilaBoldItalic;
+  src: url(/fonts/AdishilaBoldItalic.ttᳶf);
+}
 
-.shloka_imp {
-    background-color: lightgrey;
-    border: 5px solid red;
-    padding: 50px;
-    margin: 20px;
-    width: 80%;
-    font-size: 150%;
-    font-family: Gidugu;
-  }
+div.shloka {
+  background-color: lightgrey;
+  padding: 20px;
+  margin: 5px;
+  width: 80%;
+  font-size: 150%;
+  font-family: adishila;
+}
 
   .shloka_quote {
     color: #e427fd;
