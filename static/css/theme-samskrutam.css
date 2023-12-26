@@ -203,6 +203,14 @@ div.shloka {
   font-size: 150%;
   font-family: adishila;
 }
+div.shloka_telugu {
+  background-color: lightgrey;
+  padding: 20px;
+  margin: 5px;
+  width: 80%;
+  font-size: 120%;
+  font-family: Gidugu;
+}
 
   .shloka_quote {
     color: #e427fd;
