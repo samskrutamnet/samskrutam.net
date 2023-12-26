@@ -5,8 +5,8 @@ draft: false
 weight: 2
 ---
 
-This site is an attempt to present different devotional works composed to samskrutam language.
+This site is an attempt to present different devotional works composed in samskrutam language.
 
-As part of my swadhyaya I come across works of many great personalities. I would like to share my notes and learnings using this medium.
+As part of my swadhyaya I come across works of many great personalities. I would like to share my notes and learnings using this medium. 
 
-Please send the comments/clarifications to saroja.seetarama@gmail.com
+All the mistakes are mine and please send the comments/clarifications to saroja.seetarama@gmail.com
