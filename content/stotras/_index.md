@@ -1,9 +1,9 @@
 ---
-title: "Reference"
+title: "स्तुति"
 date: 2020-02-02T23:43:45-08:00
 draft: false
 chapter: true
-weight: 200
+weight: 20
 
 ---
 
