@@ -250,12 +250,19 @@ div.shloka_telugu {
   .tatparya {
     background-color: lightgrey;
     border: 5px solid rgb(211, 180, 170);
-    padding: 50px;
-    margin: 20px;
-    width: 100%;
+    padding: 20px;
+    margin: 5px;
+    width: 80%;
     font-size: 150%;
-    font-family: Gidugu;
+    font-family: adishila;
   }
+
+  .sanskrit {
+    font-size: 150%;
+    font-family: adishila;  
+  }
+
+
   .essay {
     background-color: lightgrey;
     border: 5px solid rgb(211, 180, 170);
@@ -267,7 +274,7 @@ div.shloka_telugu {
   }
 
 .skt_gadya {
-    font-size: 200%;
+    font-size: 150%;
     font-family: adishila;
 }
 
