@@ -262,6 +262,10 @@ div.shloka_telugu {
     font-family: adishila;  
   }
 
+  .telugu {
+    font-size: 120%;
+    font-family: Gidugu;
+  }
 
   .essay {
     background-color: lightgrey;
