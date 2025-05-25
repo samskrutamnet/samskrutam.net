@@ -1,0 +1,17 @@
+baseURL = 'http://www.samskrutam.net/'
+languageCode = 'en-us'
+title = 'Samskrutam'
+theme = 'relearn'
+
+[params]
+  themeVariant = [ "samskrutam", "blue","red", "zen-dark", "relearn-light", "relearn-dark" ]
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  page = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
