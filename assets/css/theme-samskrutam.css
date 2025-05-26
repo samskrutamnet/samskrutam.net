@@ -170,12 +170,13 @@ div.notices.info p {
 
 @font-face {
     font-family: Ponnala;
-    src: url(/static/fonts/Ponnala.ttf);
+    src: url(/fonts/Ponnala.ttf);
 }
 
 @font-face {
-    font-family: Gidugu;
-    src: url(/fonts/gidugu.ttf);
+    font-family: "Gidugu";
+    src: url(/fonts/Gidugu.ttf) format("opentype");
+
 }
 @font-face {
     font-family: dhurjati;
@@ -263,7 +264,7 @@ div.shloka_telugu {
   }
 
   .telugu {
-    font-size: 120%;
+    font-size: 100%;
     font-family: Gidugu;
   }
 
@@ -285,12 +286,13 @@ div.shloka_telugu {
 
 .tel_parayana {
   font-size: 100%;
-  font-family: dhurjati;
+  font-family: "Gidugu";
   white-space: pre-wrap;
 }
 
 .tel_shloka {
   font-size: 125%;
   font-family: Gidugu;
+  white-space: pre-wrap;
 }
 
